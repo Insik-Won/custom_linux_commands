@@ -8,7 +8,6 @@ Insik's custom linux commands
 ```shell
 git clone https://github.com/Insik-Won/custom_linux_commands.git
 cd custom_linux_commands
-chmod +x ./install.sh
 sudo ./install.sh
 ```
 
@@ -16,6 +15,6 @@ sudo ./install.sh
 1. cd to the local git repository
 2. copy the command below to your terminal
 ```shell
-chmod +x ./uninstall
+sudo ./uninstall
 ```
 
